@@ -15,7 +15,7 @@
 | ID  | Công việc chính | Công việc chi tiết | Người phụ trách | Người tham gia | Thời gian dự kiến (Ngày) | Tuần bắt đầu | Tuần kết thúc | Kết quả đầu ra | Trạng thái |
 |-----|-----------------|-------------------|----------------|----------------|-------------------------|--------------|---------------|----------------|------------|
 | 2   | Phân tích yêu cầu | | CTO | | 10 | 3 | 4 | Tài liệu yêu cầu hoàn chỉnh | |
-| 2.1 | | Tổ chức workshop thu thập yêu cầu kinh doanh & chức năng | Head of Product | CTO, CEO, Business Team | 5 | 3 | 3 | Tài liệu Yêu cầu Nghiệp vụ (BRD), danh sách User Stories/Use Cases | Chưa bắt đầu |
+| 2.1 | | Tổ chức workshop thu thập yêu cầu nghiệp vụ & chức năng | Head of Product | CTO, CEO, Business Team | 5 | 3 | 3 | Tài liệu Yêu cầu Nghiệp vụ (BRD), danh sách User Stories/Use Cases | Chưa bắt đầu |
 | 2.2 | | Tổ chức workshop thu thập yêu cầu phi chức năng (NFRs) | CTO | Tech Leads, DevOps, Security Team | 5 | 4 | 4 | Danh sách các NFRs (hiệu suất, bảo mật, khả năng mở rộng, v.v.) | Chưa bắt đầu |
 
 ## Giai đoạn 3: Soạn thảo Kiến trúc
