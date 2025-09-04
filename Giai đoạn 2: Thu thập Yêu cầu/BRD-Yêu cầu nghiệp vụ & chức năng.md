@@ -1,6 +1,6 @@
 **1\. Giới thiệu**
 
-Tài liệu này phác thảo các yêu cầu kinh doanh và chức năng đối với nền tảng Chương trình giảng dạy SWRP (Phần mềm, Robot và Lập trình). Nền tảng này nhằm mục đích cung cấp một môi trường học tập hiện đại, dựa trên đám mây, được thiết kế cho tương tác thời gian thực, kết xuất 3D và phân tích dữ liệu, mang đến trải nghiệm công nghệ xác thực cho học sinh.
+Tài liệu này phác thảo các yêu cầu nghiệp vụ và chức năng đối với nền tảng Chương trình giảng dạy SWRP (Phần mềm, Robot và Lập trình). Nền tảng này nhằm mục đích cung cấp một môi trường học tập hiện đại, dựa trên đám mây, được thiết kế cho tương tác thời gian thực, kết xuất 3D và phân tích dữ liệu, mang đến trải nghiệm công nghệ xác thực cho học sinh.
 
 **2\. Mục tiêu Kinh doanh**
 
@@ -17,7 +17,7 @@ Tài liệu này phác thảo các yêu cầu kinh doanh và chức năng đối
 * **Giáo viên:** Quản lý khóa học, theo dõi tiến độ của học sinh, chấm điểm và tạo tài liệu học tập.  
 * **Quản trị viên:** Quản lý người dùng, cấu hình hệ thống và giám sát hoạt động của nền tảng.
 
-**4\. Yêu cầu Kinh doanh (BRs)**
+**4\. Yêu cầu Nghiệp vụ (BRs)**
 
 BR1: Nền tảng phải cung cấp khả năng quản lý người dùng và cấp phép an toàn.  
 BR2: Nền tảng phải tích hợp liền mạch với chương trình giảng dạy và hệ thống quản lý học tập.  
